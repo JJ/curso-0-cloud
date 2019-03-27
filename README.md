@@ -10,6 +10,8 @@ mejor las clases.
 
 ## Temario
 
+* Definición y conceptos (0'5 horas).
+  * Cloud computing como modelo de prestación de servicios.
 * Lenguajes de desarrollo moderno de aplicaciones (4 horas).
   * Javascript, Ruby, Perl 6 como lenguajes de scripting.
   * Go, Scala como lenguajes compilados.
